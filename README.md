@@ -1,4 +1,4 @@
 # hello-world
-merhaba dünya
+merhaba dunya.
 
 Bu sayfayı sileceğim!!
